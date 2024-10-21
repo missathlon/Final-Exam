@@ -1,6 +1,6 @@
    92  sudo apt update
 
-   93  1025  echo -e "Dogs\nCats\nHamsters" > pets.txt
+   93  echo -e "Dogs\nCats\nHamsters" > pets.txt
 
    94  echo -e "Dogs\nCats\nHamsters" > pets.txt
 
