@@ -1,0 +1,26 @@
+   92  sudo apt update
+
+   93  1025  echo -e "Dogs\nCats\nHamsters" > pets.txt
+
+   94  echo -e "Dogs\nCats\nHamsters" > pets.txt
+
+   95  cat pets.txt
+
+   96  echo -e "Horses\nCamels\nDonkeys" > pack_animals.txt
+
+   97  cat pets.txt
+
+   98  cat pets.txt pack_animals.txt > Friends_of_Man.txt
+
+   99  cat Friends_of_Man.txt
+
+  100  wget http://archive.ubuntu.com/ubuntu/pool/main/h/hello/hello_2.10-3build1_amd64.deb
+
+  101  sudo dpkg -i hello_2.10-3build1_amd64.deb
+
+  102  hello
+
+  103  sudo dpkg -r hello
+
+  104  history
+
