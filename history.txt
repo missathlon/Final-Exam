@@ -10,9 +10,9 @@
 
    97  cat pets.txt
 
-   98  cat pets.txt pack_animals.txt > Friends_of_Man.txt
+   98  cat pets.txt pack_animals.txt > friends_of_man.txt
 
-   99  cat Friends_of_Man.txt
+   99  cat friends_of_man.txt
 
   100  wget http://archive.ubuntu.com/ubuntu/pool/main/h/hello/hello_2.10-3build1_amd64.deb
 
